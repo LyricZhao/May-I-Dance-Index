@@ -18,6 +18,13 @@
         </el-carousel-item>
         <el-carousel-item>
           <div style="position:absolute; left:50%; top:50%; transform: translate(-50%,-50%);">
+            <a href="https://exmail.qq.com/login">
+              <h2> Mail </h2>
+            </a>
+          </div>
+        </el-carousel-item>
+        <el-carousel-item>
+          <div style="position:absolute; left:50%; top:50%; transform: translate(-50%,-50%);">
             <h2> 🚧 Ticket in May </h2>
           </div>
         </el-carousel-item>
